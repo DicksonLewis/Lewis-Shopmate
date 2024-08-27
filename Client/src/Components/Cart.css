@@ -1,0 +1,24 @@
+.cart {
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+  }
+  
+  .cart-total {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
+  .cart-item button {
+    background-color: #ff9900;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
